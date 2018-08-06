@@ -1,25 +1,21 @@
-# ReduxSimpleStarter
+# Youtube Video Searcher
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This project is based on the lecture of Stephen Grider's Modern React and Redux on www.udemy.com
 
-### Getting Started
+### Stack and API
 
-There are two methods for getting started with this repo.
+- React
+- Youtube Data API
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
+### Authors
 
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
+- Stephen Grider (Original)
+- Myo Min Thant
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### How to run
 
-```
-> npm install
-> npm start
-```
+- Clone the project
+- Change your directory to the project directory
+- Open your terminal/command prompt with your current project directory
+- type "npm start"
+- run "localhost:8080" from your browser
